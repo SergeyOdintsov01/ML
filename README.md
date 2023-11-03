@@ -20,6 +20,8 @@
 В файле sentiment.py я использовал обученную модель blanchefort/rubert-base-cased-sentiment (из модуля transformers, библиотеки Hugging Face) для анализа "оттенка фразы"
 В файле translator.py я использовал обученную модель Helsinki-NLP/opus-mt-ru-en (из модуля transformers, библиотеки Hugging Face) для перевода текста на английский язык.
 Список команд, которые я использовал при выполнении модуля в файле bash_history.
+![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/43c55c9f-47c3-40cb-a5db-264496c192d4)
+
 
 
 
