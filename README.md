@@ -9,7 +9,8 @@
    Создал два python файла:
    ![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/408631cc-036d-49fa-95e1-d39ecb324088)
 
-   ![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/367d75c4-f452-4743-a882-ee6167ef9a1b)
+   ![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/d3659f8e-f35d-47f2-9eb5-fc8fdc3b297e)
+
 
    ![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/1f10f4bc-2f3a-45ed-a8e3-1ca10c99119e)
 
@@ -18,6 +19,7 @@
 
 В файле sentiment.py я использовал обученную модель blanchefort/rubert-base-cased-sentiment (из модуля transformers, библиотеки Hugging Face) для анализа "оттенка фразы"
 В файле translator.py я использовал обученную модель Helsinki-NLP/opus-mt-ru-en (из модуля transformers, библиотеки Hugging Face) для перевода текста на английский язык.
+Список команд, которые я использовал при выполнении модуля в файле bash_history.
 
 
 
