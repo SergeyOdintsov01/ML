@@ -25,7 +25,7 @@
 ![image](https://github.com/SergeyOdintsov01/ML/assets/149817675/43c55c9f-47c3-40cb-a5db-264496c192d4)
 
 
-
+Модуль_2
 
 
 
